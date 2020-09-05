@@ -1,0 +1,21 @@
+
+
+input[type = "button"]
+{
+	width:100%;
+	background-color: #ffb3b3
+}
+#id1
+{
+	background-color: #ffb3b3;
+	font-style: bold italic;
+	text-align: center;
+}
+table
+{
+	width:300px;
+	height:150px;
+}
+#result{
+	color : black;
+}
